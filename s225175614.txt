@@ -1,0 +1,9 @@
+seeing as we need to commit a text file I figured I would write this new versions updates:
+
+- I Shortened the wireframe titles to reduce confusion while working on it
+
+- I added notes for places were I thought we its important to notice the functionality 
+
+- I also made small quality of life improvements such as removing repitated screens and numbering all the wireframes
+
+I do also plan on adding a freeplane diagram for referencing the flow of the app
