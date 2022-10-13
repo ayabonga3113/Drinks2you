@@ -1,0 +1,2 @@
+aspects of the initial idea which have not been captured by the requirements
+int the ideas the eleborated on how the sign up process should go but in requirements the dont show the process. There was plans for making a following based system to follow other chefs/app users which is a great idea but this is missing in the final. A feedback system is missing completely from the final and finally there was a ingredient purchasing system mentioned but never implemented. Most of the non-functional requirements are missing from the final app preview.
